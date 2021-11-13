@@ -1,4 +1,4 @@
-# bookings-mailchimp
+# booking-mailchimp
 Plugin for adding new bookings to a mailchimp audience via the mailchimp API
 
-Requires bookings-core 1.96 or above.
+Requires booking-core 1.96 or above.
